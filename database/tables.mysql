@@ -8,28 +8,11 @@ CREATE TABLE authors (
     name CHAR(50) NOT NULL,
     PRIMARY KEY (aid));
 
-CREATE TABLE abstracts (
-    abid int NOT NULL AUTO_INCREMENT,
-    abstract TEXT NOT NULL,
-    PRIMARY KEY (abid));
-
 create table literatures(
     pmid int NOT NULL,
-    Title CHAR(250) NOT NULL,
-    abid int NOT NULL,
-    aid int NOT NULL,
-    kid int NOT NULL,
-    PRIMARY KEY (pmid),
-    FOREIGN KEY (abid) REFERENCES abstracts(abid),
-    FOREIGN KEY (aid) REFERENCES authors(aid),
-    FOREIGN KEY (kid) REFERENCES keywords(kid));
-
-create table abs(
-    pmid int NOT NULL,
-    abid int NOT NULL,
-    PRIMARY KEY (pmid, abid),
-    FOREIGN KEY (pmid) REFERENCES literatures(pmid),
-    FOREIGN KEY (abid) REFERENCES abstracts(abid));
+    title CHAR(250) NOT NULL,
+    abstract TEXT NOT NULL,
+    PRIMARY KEY (pmid),);
 
 create table search(
     pmid int NOT NULL,
