@@ -1,0 +1,1586 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32092674</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3336</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>391</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Jan</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of hazardous materials</Title>
+                <ISOAbbreviation>J. Hazard. Mater.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Electricity production of microbial fuel cells by degrading cellulose coupling with Cr(VI) removal.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>122184</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0304-3894(20)30172-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jhazmat.2020.122184</ELocationID>
+            <Abstract>
+                <AbstractText>A facultative exoelectrogen strain Lsc-8 belonging to the Cellulomonas genus with the ability to degrade carboxymethyl cellulose (CMC) coupled with the reduction of Cr(VI), was successfully isolated from rumen content. The maximum output power density of the microbial fuel cells (MFCs) inoculated strain Lsc-8 was 9.56 ± 0.37 mW·m<sup>-2</sup> with CMC as the sole carbon source. From the biomass analysis it can be seen that the electricity generation of the MFCs was primarily attributed to the planktonic cells of strain Lsc-8 rather than the biofilm attached on the electrode, which was different from Geobacter sulfurreducens. Especially, during electricity generation of the MFCs using CMC as carbon source in the anode chamber, the Cr(VI) reduction were simultaneously realized. And it is also found that the Cr(VI) reduction ratio by strain Lsc-8 is directly related to the initial Cr(VI) concentration, and it increased with the increase of initial Cr(VI) concentration at first, then started to decrease when the Cr(VI) concentration was above 21 mg ·L<sup>-1</sup>. Meanwhile, the highest output power density of 3.47 ± 0.28 mW·m<sup>-2</sup> was observed coupling with 95.22 ± 2.72 % of Cr(VI) reduction. These data suggested that the strain Lsc-8 could reduce high toxicity Cr(VI) to low toxicity Cr(III) coupled with electricity generation in MFCs with CMC as the carbon source. Our results also suggested that this study will provide a possibility to simultaneously degrade Cr(VI) and generate electricity by using cellulose as the carbon source via MFCs.</AbstractText>
+                <CopyrightInformation>Copyright © 2020 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Lianbin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shaanxi Key Laboratory of Agricultural and Environmental Microbiology, College of Life Sciences, Northwest A&amp;F University, No. 22 Xinong Road, Yangling, Shaanxi Province, 712100, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Yamei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shaanxi Key Laboratory of Agricultural and Environmental Microbiology, College of Life Sciences, Northwest A&amp;F University, No. 22 Xinong Road, Yangling, Shaanxi Province, 712100, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Dandan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Biology and Food, Shangqiu Normal University, No. 55 Pingyuan Road, Shangqiu, Henan Province, 476000, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Huichun</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shaanxi Key Laboratory of Agricultural and Environmental Microbiology, College of Life Sciences, Northwest A&amp;F University, No. 22 Xinong Road, Yangling, Shaanxi Province, 712100, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jiaxin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shaanxi Key Laboratory of Agricultural and Environmental Microbiology, College of Life Sciences, Northwest A&amp;F University, No. 22 Xinong Road, Yangling, Shaanxi Province, 712100, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shaanxi Key Laboratory of Agricultural and Environmental Microbiology, College of Life Sciences, Northwest A&amp;F University, No. 22 Xinong Road, Yangling, Shaanxi Province, 712100, PR China. Electronic address: lydiayliu@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Hazard Mater</MedlineTA>
+            <NlmUniqueID>9422688</NlmUniqueID>
+            <ISSNLinking>0304-3894</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cellulomonas</Keyword>
+            <Keyword MajorTopicYN="N">Cellulose</Keyword>
+            <Keyword MajorTopicYN="N">Cr(VI) degradation</Keyword>
+            <Keyword MajorTopicYN="N">MFCs</Keyword>
+            <Keyword MajorTopicYN="N">Riboflavin</Keyword>
+        </KeywordList>
+        <CoiStatement>Declaration of Competing Interest All the authors have no competing interests to declare.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32092674</ArticleId>
+            <ArticleId IdType="pii">S0304-3894(20)30172-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jhazmat.2020.122184</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32091949</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1544-0591</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of dental research</Title>
+                <ISOAbbreviation>J. Dent. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development and Function of γδT Cells in the Oral Mucosa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>22034520908839</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1177/0022034520908839</ELocationID>
+            <Abstract>
+                <AbstractText>To successfully withstand a wide variety of microbial and mechanical challenges, the immune system of the oral mucosa is composed of tissue-resident and specially recruited leukocytes. These leukocytes facilitate the establishment and maintenance of local homeostasis but are also capable to cause oral pathologies when are unrestrained. γδT cells represent an important tissue-resident innate T-cell population in various mucosal and nonmucosal barrier tissues, in which they are ideally located to assist in immunosurveillance, tissue repair, and homeostasis. Whereas most works studying γδT cells were focused on tissues such as the skin and intestine, these cells in the oral mucosa were only recently thoroughly studied. The findings obtained by those studies appear to be both complementary and contradicting, likely reflecting differences in the experimental settings and the type of transgenic mouse modalities employed by each study. Nevertheless, oral γδT cells were shown to consist of developmentally distinct tissue-resident Vγ6 cells and circulating Vγ1 and Vγ4 subsets that are independently maintained in the oral mucosa. In the gingiva, a particularly challenging barrier tissue due to its proximity to the dental plaque, γδT cells are strategically positioned close to the plaque and represent the major source of IL-17. While this suggests that γδT cells might be involved in controlling the dental biofilm, conflicting data were reported in this regard. In vivo studies have shown that γδT cells either play a protective role during age-associated bone loss or, alternatively, have no impact in this process. Also, recent reports suggested opposing data concerning the impact of γδT cells in experimental periodontitis based on the ligature model. This review summarizes and discusses the most up-to-date literature on oral γδT cells, providing a balanced perspective regarding our current understanding on the development of oral γδT cells and their role under physiologic conditions and certain oral pathologies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hovav</LastName>
+                    <ForeName>A H</ForeName>
+                    <Initials>AH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Dental Sciences, Faculty of Dental Medicine, Hebrew University, Jerusalem, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilharm</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Immunology, Hannover Medical School, Hannover, Niedersachsen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barel</LastName>
+                    <ForeName>O</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Dental Sciences, Faculty of Dental Medicine, Hebrew University, Jerusalem, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prinz</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Immunology, Hannover Medical School, Hannover, Niedersachsen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Dent Res</MedlineTA>
+            <NlmUniqueID>0354343</NlmUniqueID>
+            <ISSNLinking>0022-0345</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>D</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bacteria</Keyword>
+            <Keyword MajorTopicYN="N">bone loss</Keyword>
+            <Keyword MajorTopicYN="N">gingiva</Keyword>
+            <Keyword MajorTopicYN="N">innate immunity</Keyword>
+            <Keyword MajorTopicYN="N">mucosal immunity</Keyword>
+            <Keyword MajorTopicYN="N">periodontal disease(s)/periodontitis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32091949</ArticleId>
+            <ArticleId IdType="doi">10.1177/0022034520908839</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32091935</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1544-0591</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of dental research</Title>
+                <ISOAbbreviation>J. Dent. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Single-Cell Genomics and the Oral Microbiome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>22034520907380</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1177/0022034520907380</ELocationID>
+            <Abstract>
+                <AbstractText>The human oral cavity is one of the first environments where microbes have been discovered and studied since the dawn of microbiology. Nevertheless, approximately 200 types of bacteria from the oral microbiota have remained uncultured in the laboratory. Some are associated with a healthy oral microbial community, while others are linked to oral diseases, from dental caries to gum disease. Single-cell genomics has enabled inferences on the physiology, virulence, and evolution of such uncultured microorganisms and has further enabled isolation and cultivation of several novel oral bacteria, including the discovery of novel interspecies interactions. This review summarizes some of the more recent advances in this field, which is rapidly moving toward physiologic characterization of single cells and ultimately cultivation of the yet uncultured. A combination of traditional microbiological approaches with genomic-based physiologic predictions and isolation strategies may lead to the oral microbiome being the first complex microbial community to have all its members cultivable in the laboratory. Studying the biology of the individual microbes when in association with other members of the community, in controlled laboratory conditions and in vivo, should lead to a better understanding of oral dysbiosis and its prevention and reversion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Balachandran</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-9804-7426</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cross</LastName>
+                    <ForeName>K L</ForeName>
+                    <Initials>KL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Podar</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-2776-0205</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Dent Res</MedlineTA>
+            <NlmUniqueID>0354343</NlmUniqueID>
+            <ISSNLinking>0022-0345</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>D</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">bacteria</Keyword>
+            <Keyword MajorTopicYN="N">biofilms</Keyword>
+            <Keyword MajorTopicYN="N">bioinformatics</Keyword>
+            <Keyword MajorTopicYN="N">dysbiosis</Keyword>
+            <Keyword MajorTopicYN="N">microbial ecology</Keyword>
+            <Keyword MajorTopicYN="N">microbiology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32091935</ArticleId>
+            <ArticleId IdType="doi">10.1177/0022034520907380</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32091876</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1944-8252</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS applied materials &amp; interfaces</Title>
+                <ISOAbbreviation>ACS Appl Mater Interfaces</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chemical functionalization of the zinc selenide surface and its impact on Lactobacillus rhamnosus GG biofilms.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acsami.0c01335</ELocationID>
+            <Abstract>
+                <AbstractText>Bacteria grow on surfaces and form communities called biofilms. Bacterial adhesion and properties of the derived biofilms depend, among others, on the nature of the supporting substrate. Here, we report how the surface properties of the substrate affect the biofilm growth of probiotic Lactobacillus rhamnosus GG (LGG). Hydrophilic (OH), hydrophobic (CH<sub>3</sub>) and positively charged (NH<sub>3</sub><sup>+</sup>) surfaces were obtained by the functionalization of a ZnSe crystal with alkanethiol self-assembled monolayers (SAM). The self-assembly of alkanethiols onto ZnSe was studied in situ using infrared spectroscopy in Attenuated Total Reflection mode (ATR-FTIR). The organization of grafted SAMs was analyzed based on the results of ATR-FTIR, high-energy elastic backscattering spectrometry and contact angle measurements. The kinetics and adhesion strength of LGG initial attachment as well as its physiological state on surfaces terminated by the different functional groups were assessed by the combination of ATR-FTIR, force measurements based on atomic force microscopy and fluorescent staining of bacteria. The strength of interactions between LGG and the surface was strongly affected by the terminal group of the alkanethiol chain. The NH<sub>3</sub><sup>+</sup> groups displayed the highest affinity with LGG at the first stage of interaction. The surface properties also played an important role when LGG biofilms were further grown in a nutritive medium for 24 hours under flow conditions. Notably, the analysis of the infrared spectra recorded during the biofilm cultivation revealed differences in the kinetics of growth and in the polysaccharide features of the biofilm depending on the substrate functionality. LGG biofilm was stable only on the positively charged surface upon rinsing. Findings of this work clearly show that the adhesion features and the growth of LGG biofilms are substrate-dependent.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yunda</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alem</LastName>
+                    <ForeName>Halima</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Francius</LastName>
+                    <ForeName>Grégory</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gago</LastName>
+                    <ForeName>Raul</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quilès</LastName>
+                    <ForeName>Fabienne</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Appl Mater Interfaces</MedlineTA>
+            <NlmUniqueID>101504991</NlmUniqueID>
+            <ISSNLinking>1944-8244</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32091876</ArticleId>
+            <ArticleId IdType="doi">10.1021/acsami.0c01335</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">32090917</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-0180</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>103</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the mechanical behavior of biomedical materials</Title>
+                <ISOAbbreviation>J Mech Behav Biomed Mater</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mechanical, elution, and antibacterial properties of simplex bone cement loaded with vancomycin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103588</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1751-6161(19)31108-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jmbbm.2019.103588</ELocationID>
+            <Abstract>
+                <AbstractText>Prosthetic joint infection (PJI) is one of the most devastating failures in total joint replacement (TJR). Infections are becoming difficult to treat due to the emergence of multi-drug resistant bacteria. These bacteria produce biofilm on the implant surface, rendering many antibiotics ineffective by compromising drug diffusion and penetration into the infected area. With the introduction of new antibiotics there is a need to create benchmark data from the traditional antibiotic loaded bone cements. Vancomycin, one of the commonly used antibiotics, shows activity against Methicillin-resistant Staphylococcus aureus (MRSA) and S.epidermidis. In our study, vancomycin added to bone cement was evaluated for elution properties, antimicrobial properties, and mechanical properties of the bone cement. Vancomycin at five different loading masses (0.125, 0.25, 0.5, 1.0 and 2.0 g) was added to 40 g of Simplex™ P cement. Addition of vancomycin affected the mechanical properties and antimicrobial activity with significant differences from controls. Flexural and compression mechanical properties were compromised with added vancomycin. The flexural strength of samples with added vancomycin of 0.5 g and greater were not greater than ISO 5833 minimum requirements. 2.0 g of vancomycin added to bone cement was able to eliminate completely the four bacterial strains tested. 2.0 g of vancomycin also showed the highest mass elution from the cement over a 60-day period. Given the reduced flexural strength in samples with 0.5 g and greater of added vancomycin and the inability of vancomycin in amounts less than 2.0 g to eliminate bacteria, this study did not find an ideal amount of vancomycin added to Simplex™ P that meets both strength and antibacterial requirements.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Sunjung</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Wisconsin, Madison, Mechanical Engineering, Madison, WI, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bishop</LastName>
+                    <ForeName>Aaron R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Wisconsin, Madison, Biomedical Engineering, Madison, WI, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Squire</LastName>
+                    <ForeName>Matthew W</ForeName>
+                    <Initials>MW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Wisconsin School of Medicine and Public Health, Madison, WI, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rose</LastName>
+                    <ForeName>Warren E</ForeName>
+                    <Initials>WE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Wisconsin, Madison, School of Pharmacy, Madison, WI, U.S.A; University of Wisconsin School of Medicine and Public Health, Madison, WI, U.S.A. Electronic address: warren.rose@wisc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ploeg</LastName>
+                    <ForeName>Heidi-Lynn</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Wisconsin, Madison, Mechanical Engineering, Madison, WI, U.S.A; University of Wisconsin, Madison, Biomedical Engineering, Madison, WI, U.S.A; Queen's University - Kingston, Mechanical and Materials Engineering, Kingston, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Mech Behav Biomed Mater</MedlineTA>
+            <NlmUniqueID>101322406</NlmUniqueID>
+            <ISSNLinking>1878-0180</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CoiStatement>Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32090917</ArticleId>
+            <ArticleId IdType="pii">S1751-6161(19)31108-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jmbbm.2019.103588</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">32090830</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>260</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Apr</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of environmental management</Title>
+                <ISOAbbreviation>J. Environ. Manage.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative study on attached-growth photobioreactors under blue and red lights for treatment of septic tank effluent.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>110134</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-4797(20)30072-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jenvman.2020.110134</ELocationID>
+            <Abstract>
+                <AbstractText>Attached-growth photobioreactors (AG-PBRs) employing low-cost attached-growth media were applied to treat septic tank effluent which contained abundant organic and nutrient matters as well as pathogenic microorganisms. This study investigated effects of blue and red LED lights on organic, nutrient and pathogenic removals, biomass productivity and compositions of microbial community in the AG-PBR system. The experimental results showed the blue AG-PBR to be more effective in removing chemical oxygen demand (COD), total nitrogen (TN) and ammonia nitrogen (NH<sub>3</sub>-N) and generating biomass productivity than those of the red AG-PBR (P &lt; 0.05). Mass balance analysis indicated that the TN and total phosphorus (TP) were removed mainly by assimilation into the biomass. The TN removal rates via nitrification and denitrification processes in the blue AG-PBR were found to be higher than that of the red AG-PBR, corresponding to the observed results of bacterial biomass and abundances of nitrifying and denitrifying bacterial species in the treatment systems. The maximal areal algal biomass productivity of 47 gDW/(m<sup>2</sup>. d) in the blue AG-PBRs was found to be higher than those of other algal attached-growth systems. Although, the red and blue AG-PBR systems could effectively treat the septic tank effluent to meet the national and international discharge standards, based on treatment efficiencies and biomass productivity, the blue AG-PBR is recommended for treatment of septic tank effluent.</AbstractText>
+                <CopyrightInformation>Copyright © 2020 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chaiwong</LastName>
+                    <ForeName>Chawalit</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Engineering and Management, School of Environments Resources and Development, Asian Institute of Technology, P.O.Box 4, Klong Luang, Pathumthani, 12120, Thailand. Electronic address: f.chawalit@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koottatep</LastName>
+                    <ForeName>Thammarat</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Engineering and Management, School of Environments Resources and Development, Asian Institute of Technology, P.O.Box 4, Klong Luang, Pathumthani, 12120, Thailand. Electronic address: thammaratkoottatep@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Polprasert</LastName>
+                    <ForeName>Chongrak</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil Engineering, Faculty of Engineering, Thammasat University, Pathumthani, 12120, Thailand. Electronic address: pchongrak@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Environ Manage</MedlineTA>
+            <NlmUniqueID>0401664</NlmUniqueID>
+            <ISSNLinking>0301-4797</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Algal-bacterial biofilm system</Keyword>
+            <Keyword MajorTopicYN="N">Attached-growth photobioreactor</Keyword>
+            <Keyword MajorTopicYN="N">Biomass productivity</Keyword>
+            <Keyword MajorTopicYN="N">Septic tank effluent</Keyword>
+            <Keyword MajorTopicYN="N">Wavelengths of light</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32090830</ArticleId>
+            <ArticleId IdType="pii">S0301-4797(20)30072-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jenvman.2020.110134</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32090601</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1029-2454</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biofouling</Title>
+                <ISOAbbreviation>Biofouling</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Visualizing the macroscale spatial distributions of biofilms in complex flow channels using industrial computed tomography.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/08927014.2020.1728260</ELocationID>
+            <Abstract>
+                <AbstractText>The presence of biofilms in enclosed pipelines can lead to numerous deleterious issues. To date, it has been difficult to use optical imaging techniques to monitor the macroscale spatial distributions of biofilms. To address this concern, a combination of industrial computed tomography (ICT) and a contrast agent was explored to noninvasively visualize biofilms in three types of drip irrigation emitters. The results showed that ICT successfully observed and quantified the macroscale spatial distributions of biofilms. The complex hydrodynamic characteristics in the emitter channels affected the local distributions of biofilms. Biofilms were mainly attached to the lateral and medial faces and biomass decreased along the flow directions. Based on the distributions of biofilms, some emitter structural design defects were further diagnosed. Applying ICT in combination with the contrast agent could potentially provide a visual and effective way to reveal the formation mechanisms of biofilms and to optimize flow channel structures to avoid biofilm accumulations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Yang</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Water Resources and Civil Engineering, China Agricultural University, Beijing, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sawicka</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Production Technology and Commodities Science, University of Life Sciences, Lublin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yaoze</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environmental and Sustainable Engineering, University at Albany, State University of New York, Albany, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Water Resources and Civil Engineering, China Agricultural University, Beijing, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hou</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Water Resources and Civil Engineering, China Agricultural University, Beijing, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yunkai</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Water Resources and Civil Engineering, China Agricultural University, Beijing, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biofouling</MedlineTA>
+            <NlmUniqueID>9200331</NlmUniqueID>
+            <ISSNLinking>0892-7014</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biofilm</Keyword>
+            <Keyword MajorTopicYN="N">flow channel</Keyword>
+            <Keyword MajorTopicYN="N">industrial computed tomography</Keyword>
+            <Keyword MajorTopicYN="N">macroscale</Keyword>
+            <Keyword MajorTopicYN="N">spatial distribution</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32090601</ArticleId>
+            <ArticleId IdType="doi">10.1080/08927014.2020.1728260</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32090355</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2075</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The EMBO journal</Title>
+                <ISOAbbreviation>EMBO J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The SiaA/B/C/D signaling network regulates biofilm formation in Pseudomonas aeruginosa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e103412</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.15252/embj.2019103412</ELocationID>
+            <Abstract>
+                <AbstractText>Bacterial cyclic-di-GMP (c-di-GMP) production is associated with biofilm development and the switch from acute to chronic infections. In Pseudomonas aeruginosa, the diguanylate cyclase (DGC) SiaD and phosphatase SiaA, which are co-transcribed as part of a siaABCD operon, are essential for cellular aggregation. However, the detailed functions of this operon and the relationships among its constituent genes are unknown. Here, we demonstrate that the siaABCD operon encodes for a signaling network that regulates SiaD enzymatic activity to control biofilm and aggregates formation. Through protein-protein interaction, SiaC promotes SiaD diguanylate cyclase activity. Biochemical and structural data revealed that SiaB is an unusual protein kinase that phosphorylates SiaC, whereas SiaA phosphatase can dephosphorylate SiaC. The phosphorylation state of SiaC is critical for its interaction with SiaD, which will switch on or off the DGC activity of SiaD and regulate c-di-GMP levels and subsequent virulence phenotypes. Collectively, our data provide insights into the molecular mechanisms underlying the modulation of DGC activity associated with chronic infections, which may facilitate the development of antimicrobial drugs.</AbstractText>
+                <CopyrightInformation>© 2020 The Authors.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Gukui</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-0838-5967</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Resources Biology and Biotechnology in Western China, Ministry of Education, College of Life Sciences, Northwest University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Gan</LastName>
+                    <ForeName>Jianhua</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8438-8852</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Genetic Engineering, Shanghai Public Health Clinical Center, Collaborative Innovation Center of Genetics and Development, School of Life Sciences, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Chun</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Genetic Engineering, Shanghai Public Health Clinical Center, Collaborative Innovation Center of Genetics and Development, School of Life Sciences, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zuo</LastName>
+                    <ForeName>Yili</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Resources Biology and Biotechnology in Western China, Ministry of Education, College of Life Sciences, Northwest University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Resources Biology and Biotechnology in Western China, Ministry of Education, College of Life Sciences, Northwest University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Meng</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-2430-9665</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Resources Biology and Biotechnology in Western China, Ministry of Education, College of Life Sciences, Northwest University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huo</LastName>
+                    <ForeName>Weiping</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Resources Biology and Biotechnology in Western China, Ministry of Education, College of Life Sciences, Northwest University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Yingpeng</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences, City University of Hong Kong, Hong Kong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yani</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Resources Biology and Biotechnology in Western China, Ministry of Education, College of Life Sciences, Northwest University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Tietao</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8540-436X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Resources Biology and Biotechnology in Western China, Ministry of Education, College of Life Sciences, Northwest University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Xin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences, City University of Hong Kong, Hong Kong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Haihua</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-9639-1867</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Resources Biology and Biotechnology in Western China, Ministry of Education, College of Life Sciences, Northwest University, Xi'an, Shaanxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>6KKO</AccessionNumber>
+                        <AccessionNumber>6KKP</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2019JQ-134</GrantID>
+                    <Agency>Natural Science Basic Research Program of Shaanxi</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>IRT1174</GrantID>
+                    <Agency>The Program for Changjiang Scholars and Innovative Research Team in University</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>ITR_15R55</GrantID>
+                    <Agency>The Program for Changjiang Scholars and Innovative Research Team in University</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>31622003</GrantID>
+                    <Agency>National Natural Science Foundation of China</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>31670080</GrantID>
+                    <Agency>National Natural Science Foundation of China</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>31870060</GrantID>
+                    <Agency>National Natural Science Foundation of China</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>31700064</GrantID>
+                    <Agency>National Natural Science Foundation of China</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>EMBO J</MedlineTA>
+            <NlmUniqueID>8208664</NlmUniqueID>
+            <ISSNLinking>0261-4189</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">
+Pseudomonas aeruginosa
+</Keyword>
+            <Keyword MajorTopicYN="N">biofilm formation</Keyword>
+            <Keyword MajorTopicYN="N">crystal structure</Keyword>
+            <Keyword MajorTopicYN="N">phosphorylation</Keyword>
+            <Keyword MajorTopicYN="N">protein-protein interaction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32090355</ArticleId>
+            <ArticleId IdType="doi">10.15252/embj.2019103412</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Title>References</Title>
+            <Reference>
+                <Citation>Adams PD, Grosse-Kunstleve RW, Hung LW, Ioerger TR, McCoy AJ, Moriarty NW, Read RJ, Sacchettini JC, Sauter NK, Terwilliger TC (2002) PHENIX: building new software for automated crystallographic structure determination. Acta Crystallogr D Biol Crystallogr 58: 1948-1954</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Afonine PV, Grosse-Kunstleve RW, Echols N, Headd JJ, Moriarty NW, Mustyakimov M, Terwilliger TC, Urzhumtsev A, Zwart PH, Adams PD (2012) Towards automated crystallographic structure refinement with phenix.refine. Acta Crystallogr D Biol Crystallogr 68: 352-367</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Aravind L, Ponting CP (1999) The cytoplasmic helical linker domain of receptor histidine kinase and methyl-accepting proteins is common to many prokaryotic signalling proteins. FEMS Microbiol Lett 176: 111-116</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Baena I, Perez-Mendoza D, Sauviac L, Francesch K, Martin M, Rivilla R, Bonilla I, Bruand C, Sanjuan J, Lloret J (2019) A partner-switching system controls activation of mixed-linkage beta-glucan synthesis by c-di-GMP in Sinorhizobium meliloti. Environ Microbiol 21: 3379-3391</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Baraquet C, Murakami K, Parsek MR, Harwood CS (2012) The FleQ protein from Pseudomonas aeruginosa functions as both a repressor and an activator to control gene expression from the pel operon promoter in response to c-di-GMP. Nucleic Acids Res 40: 7207-7218</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Becher A, Schweizer HP (2000) Integration-proficient Pseudomonas aeruginosa vectors for isolation of single-copy chromosomal lacZ and lux gene fusions. Biotechniques 29: 948-950, 952</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Brencic A, Lory S (2009) Determination of the regulon and identification of novel mRNA targets of Pseudomonas aeruginosa RsmA. Mol Microbiol 72: 612-632</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Campbell EA, Masuda S, Sun JL, Muzzin O, Olson CA, Wang S, Darst SA (2002) Crystal structure of the Bacillus stearothermophilus anti-sigma factor SpoIIAB with the sporulation sigma factor sigmaF. Cell 108: 795-807</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chen Y, Yuan M, Mohanty A, Yam JK, Liu Y, Chua SL, Nielsen TE, Tolker-Nielsen T, Givskov M, Cao B et al (2015) Multiple diguanylate cyclase-coordinated regulation of pyoverdine synthesis in Pseudomonas aeruginosa. Environ Microbiol Rep 7: 498-507</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chew SC, Yam JKH, Matysik A, Seng ZJ, Klebensberger J, Givskov M, Doyle P, Rice SA, Yang L, Kjelleberg S (2018) Matrix polysaccharides and siad diguanylate cyclase alter community structure and competitiveness of Pseudomonas aeruginosa during dual-species biofilm development with Staphylococcus aureus. MBio 6: e00585-18</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Cohen D, Mechold U, Nevenzal H, Yarmiyhu Y, Randall TE, Bay DC, Rich JD, Parsek MR, Kaever V, Harrison JJ et al (2015) Oligoribonuclease is a central feature of cyclic diguanylate signaling in Pseudomonas aeruginosa. Proc Natl Acad Sci USA 112: 11359-11364</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Colley B, Dederer V, Carnell M, Kjelleberg S, Rice SA, Klebensberger J (2016) SiaA/D interconnects c-di-GMP and RsmA signaling to coordinate cellular aggregation of Pseudomonas aeruginosa in response to environmental conditions. Front Microbiol 7: 179</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Emsley P, Cowtan K (2004) Coot: model-building tools for molecular graphics. Acta Crystallogr D Biol Crystallogr 60: 2126-2132</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Giacovazzo C, Siliqi D (2004) Phasing via SAD/MAD data: the method of the joint probability distribution functions. Acta Crystallogr D Biol Crystallogr 60: 73-82</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Guvener ZT, Harwood CS (2007) Subcellular location characteristics of the Pseudomonas aeruginosa GGDEF protein, WspR, indicate that it produces cyclic-di-GMP in response to growth on surfaces. Mol Microbiol 66: 1459-1473</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hickman JW, Tifrea DF, Harwood CS (2005) A chemosensory system that regulates biofilm formation through modulation of cyclic diguanylate levels. Proc Natl Acad Sci USA 102: 14422-14427</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hoang TT, Karkhoff-Schweizer RR, Kutchma AJ, Schweizer HP (1998) A broad-host-range Flp-FRT recombination system for site-specific excision of chromosomally-located DNA sequences: application for isolation of unmarked Pseudomonas aeruginosa mutants. Gene 212: 77-86</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hunter T (1995) Protein kinases and phosphatases: the yin and yang of protein phosphorylation and signaling. Cell 80: 225-236</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Irie Y, Borlee BR, O'Connor JR, Hill PJ, Harwood CS, Wozniak DJ, Parsek MR (2012) Self-produced exopolysaccharide is a signal that stimulates biofilm formation in Pseudomonas aeruginosa. Proc Natl Acad Sci USA 109: 20632-20636</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Jenal U, Reinders A, Lori C (2017) Cyclic di-GMP: second messenger extraordinaire. Nat Rev Microbiol 15: 271-284</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kelley LA, Mezulis S, Yates CM, Wass MN, Sternberg MJ (2015) The Phyre2 web portal for protein modeling, prediction and analysis. Nat Protoc 10: 845-858</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Klebensberger J, Birkenmaier A, Geffers R, Kjelleberg S, Philipp B (2009) SiaA and SiaD are essential for inducing autoaggregation as a specific response to detergent stress in Pseudomonas aeruginosa. Environ Microbiol 11: 3073-3086</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kulasakara H, Lee V, Brencic A, Liberati N, Urbach J, Miyata S, Lee DG, Neely AN, Hyodo M, Hayakawa Y et al (2006) Analysis of Pseudomonas aeruginosa diguanylate cyclases and phosphodiesterases reveals a role for bis-(3′-5′)-cyclic-GMP in virulence. Proc Natl Acad Sci USA 103: 2839-2844</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Masuda S, Murakami KS, Wang S, Anders Olson C, Donigian J, Leon F, Darst SA, Campbell EA (2004) Crystal structures of the ADP and ATP bound forms of the Bacillus anti-sigma factor SpoIIAB in complex with the anti-anti-sigma SpoIIAA. J Mol Biol 340: 941-956</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Meek RW, Cadby IT, Moynihan PJ, Lovering AL (2019) Structural basis for activation of a diguanylate cyclase required for bacterial predation in Bdellovibrio. Nat Commun 10: 4086</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Minor W, Cymborowski M, Otwinowski Z, Chruszcz M (2006) HKL-3000: the integration of data reduction and structure solution-from diffraction images to an initial model in minutes. Acta Crystallogr D Biol Crystallogr 62: 859-866</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Murshudov GN, Skubak P, Lebedev AA, Pannu NS, Steiner RA, Nicholls RA, Winn MD, Long F, Vagin AA (2011) REFMAC5 for the refinement of macromolecular crystal structures. Acta Crystallogr D Biol Crystallogr 67: 355-367</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Orr MW, Donaldson GP, Severin GB, Wang J, Sintim HO, Waters CM, Lee VT (2015) Oligoribonuclease is the primary degradative enzyme for pGpG in Pseudomonas aeruginosa that is required for cyclic-di-GMP turnover. Proc Natl Acad Sci USA 112: E5048-E5057</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Potterton E, Briggs P, Turkenburg M, Dodson E (2003) A graphical user interface to the CCP4 program suite. Acta Crystallogr D Biol Crystallogr 59: 1131-1137</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Quin MB, Berrisford JM, Newman JA, Basle A, Lewis RJ, Marles-Wright J (2012) The bacterial stressosome: a modular system that has been adapted to control secondary messenger signaling. Structure 20: 350-363</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ravichandran A, Sugiyama N, Tomita M, Swarup S, Ishihama Y (2009) Ser/Thr/Tyr phosphoproteome analysis of pathogenic and non-pathogenic Pseudomonas species. Proteomics 9: 2764-2775</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Romling U, Galperin MY, Gomelsky M (2013) Cyclic di-GMP: the first 25 years of a universal bacterial second messenger. Microbiol Mol Biol Rev 77: 1-52</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ross P, Weinhouse H, Aloni Y, Michaeli D, Weinberger-Ohana P, Mayer R, Braun S, de Vroom E, van der Marel GA, van Boom JH et al (1987) Regulation of cellulose synthesis in Acetobacter xylinum by cyclic diguanylic acid. Nature 325: 279-281</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schmidt AJ, Ryjenkov DA, Gomelsky M (2005) The ubiquitous protein domain EAL is a cyclic diguanylate-specific phosphodiesterase: enzymatically active and inactive EAL domains. J Bacteriol 187: 4774-4781</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schmidt A, Hammerbacher AS, Bastian M, Nieken KJ, Klockgether J, Merighi M, Lapouge K, Poschgan C, Kolle J, Acharya KR et al (2016) Oxygen-dependent regulation of c-di-GMP synthesis by SadC controls alginate production in Pseudomonas aeruginosa. Environ Microbiol 18: 3390-3402</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Simm R, Morr M, Kader A, Nimtz M, Romling U (2004) GGDEF and EAL domains inversely regulate cyclic di-GMP levels and transition from sessility to motility. Mol Microbiol 53: 1123-1134</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Su B, Ji YS, Sun XL, Liu XH, Chen ZY (2014) Brain-derived neurotrophic factor (BDNF)-induced mitochondrial motility arrest and presynaptic docking contribute to BDNF-enhanced synaptic transmission. J Biol Chem 289: 1213-1226</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Taylor SS, Kornev AP (2011) Protein kinases: evolution of dynamic regulatory proteins. Trends Biochem Sci 36: 65-77</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Terwilliger TC, Adams PD, Read RJ, McCoy AJ, Moriarty NW, Grosse-Kunstleve RW, Afonine PV, Zwart PH, Hung LW (2009) Decision-making in structure solution using Bayesian estimates of map quality: the PHENIX AutoSol wizard. Acta Crystallogr D Biol Crystallogr 65: 582-601</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Valentini M, Laventie BJ, Moscoso J, Jenal U, Filloux A (2016) The diguanylate cyclase HsbD intersects with the HptB regulatory cascade to control Pseudomonas aeruginosa biofilm and motility. PLoS Genet 12: e1006354</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Vijay K, Brody MS, Fredlund E, Price CW (2000) A PP2C phosphatase containing a PAS domain is required to convey signals of energy stress to the sigmaB transcription factor of Bacillus subtilis. Mol Microbiol 35: 180-188</Citation>
+            </Reference>
+            <Reference>
+                <Citation>West SE, Schweizer HP, Dall C, Sample AK, Runyen-Janecky LJ (1994) Construction of improved Escherichia-Pseudomonas shuttle vectors derived from pUC18/19 and sequence of the region required for their replication in Pseudomonas aeruginosa. Gene 148: 81-86</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zhao J, Yu X, Zhu M, Kang H, Ma J, Wu M, Gan J, Deng X, Liang H (2016) Structural and molecular mechanism of CdpR involved in quorum-sensing and bacterial virulence in Pseudomonas aeruginosa. PLoS Biol 14: e1002449</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zhu B, Liu C, Liu S, Cong H, Chen Y, Gu L, Ma LZ (2016a) Membrane association of SadC enhances its diguanylate cyclase activity to control exopolysaccharides synthesis and biofilm formation in Pseudomonas aeruginosa. Environ Microbiol 18: 3440-3452</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zhu M, Zhao J, Kang H, Kong W, Liang H (2016b) Modulation of type III secretion system in Pseudomonas aeruginosa: involvement of the PA4857 gene product. Front Microbiol 7: 7</Citation>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">32089678</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1687-708X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2020</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Interdisciplinary perspectives on infectious diseases</Title>
+                <ISOAbbreviation>Interdiscip Perspect Infect Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of Lysozyme, Proteinase K, and Cephalosporins on Biofilm Formation by Clinical Isolates of Pseudomonas aeruginosa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6156720</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2020/6156720</ELocationID>
+            <Abstract>
+                <AbstractText>Pseudomonas aeruginosa is an opportunistic pathogen that can form biofilms, which confer resistance to immune clearance and antibacterial treatment. Therefore, effective strategies to prevent biofilm formation are warranted. Here, 103 P. aeruginosa clinical isolates were quantitatively screened for biofilm formation ability via the tissue culture plate method. The effects of lysozyme (hydrolytic enzyme) and proteinase K (protease) on biofilm formation were evaluated at different concentrations. Lysozyme (30 μg/mL), but not proteinase K, significantly inhibited biofilm formation (19% inhibition). Treatment of 24-hour-old biofilms of P. aeruginosa isolates with 50 times the minimum inhibitory concentrations (MICs) of ceftazidime and cefepime significantly decreased the biofilm mass by 32.8% and 44%, respectively. Moreover, the exposure of 24-hour-old biofilms of P. aeruginosa isolates to lysozyme (30 μg/mL) and 50 times MICs of ceftazidime or cefepime resulted in a significant reduction in biofilm mass as compared with the exposure to lysozyme or either antibacterial agent alone. The best antibiofilm effect (49.3%) was observed with the combination of lysozyme (30 μg/mL) and 50 times MIC of cefepime. The promising antibiofilm activity observed after treatment with 50 times MIC of ceftazidime or cefepime alone or in combination with lysozyme (30 μg/mL) is indicative of a novel strategy to eradicate pseudomonal biofilms in intravascular devices and contact lenses.</AbstractText>
+                <CopyrightInformation>Copyright © 2020 Mohamed Eladawy et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eladawy</LastName>
+                    <ForeName>Mohamed</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0200-0752</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Faculty of Pharmacy, Mansoura University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El-Mowafy</LastName>
+                    <ForeName>Mohammed</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8072-7087</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Faculty of Pharmacy, Mansoura University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El-Sokkary</LastName>
+                    <ForeName>Mohamed Mohamed Adel</ForeName>
+                    <Initials>MMA</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-2479-3984</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Faculty of Pharmacy, Mansoura University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barwa</LastName>
+                    <ForeName>Rasha</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-3130-3576</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Faculty of Pharmacy, Mansoura University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Egypt</Country>
+            <MedlineTA>Interdiscip Perspect Infect Dis</MedlineTA>
+            <NlmUniqueID>101496545</NlmUniqueID>
+            <ISSNLinking>1687-708X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors declare that they have no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32089678</ArticleId>
+            <ArticleId IdType="doi">10.1155/2020/6156720</ArticleId>
+            <ArticleId IdType="pmc">PMC7031717</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">32089643</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1466-1861</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2020</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Mediators of inflammation</Title>
+                <ISOAbbreviation>Mediators Inflamm.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regulation of Cyclooxygenase 2 by Filifactor alocis in Fibroblastic and Monocytic Cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4185273</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2020/4185273</ELocationID>
+            <Abstract>
+                <AbstractText>Periodontitis is a prevalent chronic inflammatory disease triggered by a synergistic and dysbiotic microbiota present in the oral biofilm. This in vitro study is aimed at evaluating the regulation of cyclooxygenase (COX)2 expression and production by the periodontopathogen Filifactor alocis in human gingival fibroblastic (HGF-1) and monocytic (THP-1) cells and also at investigating the underlying cellular pathway mechanisms. HGF-1 and THP-1 cells were exposed either to F. alocis or to the proinflammatory cytokine tumor necrosis factor alpha (TNFα) for 1 and 2 d to examine the COX2 expression by qPCR. COX2 protein levels were evaluated by ELISA in F. alocis-stimulated cells. Both types of cells were also stimulated with a blocking toll-like receptor (TLR)2 antibody or specific inhibitors against MAPKs. F. alocis significantly (p &lt; 0.05) increased COX2 at both transcriptional and protein levels in both HGF-1 and THP-1 cells. Moreover, the stimulatory effect of F. alocis on COX2 was more pronounced in HGF-1 cells in comparison to THP-1 cells. F. alocis upregulated the COX2 expression in a dose-dependent manner in both type cells at 1 d. TNFα also significantly (p &lt; 0.05) increased the COX2 expression in both cells. After preincubation of HGF-1 and THP-1 cells either with a neutralizing anti-TLR2 antibody or with specific MAPK inhibitors, the F. alocis-upregulated COX2 expression was significantly (p &lt; 0.05) suppressed at 1 d. Our in vitro study provides original evidence that F. alocis stimulates COX2 production in fibroblastic and monocytic cells through TLR2 and MAPK mechanisms, suggesting a role of this periodontopathogen in the etiopathogenesis of periodontitis.</AbstractText>
+                <CopyrightInformation>Copyright © 2020 Marjan Nokhbehsaim et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nokhbehsaim</LastName>
+                    <ForeName>Marjan</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0998-1717</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Section of Experimental Dento-Maxillo-Facial Medicine, Center of Dento-Maxillo-Facial Medicine, University of Bonn, Bonn, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nogueira</LastName>
+                    <ForeName>Andressa V B</ForeName>
+                    <Initials>AVB</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-2756-5947</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology and Operative Dentistry, University Medical Center of the Johannes Gutenberg University, Mainz, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nietzsche</LastName>
+                    <ForeName>Sandor</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Electron Microscopy, University Hospital Jena, Jena, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eick</LastName>
+                    <ForeName>Sigrun</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-4619-2461</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology, Laboratory of Oral Microbiology, University of Bern, Bern, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deschner</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8808-8769</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology and Operative Dentistry, University Medical Center of the Johannes Gutenberg University, Mainz, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mediators Inflamm</MedlineTA>
+            <NlmUniqueID>9209001</NlmUniqueID>
+            <ISSNLinking>0962-9351</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CoiStatement>The authors declare that there is no conflict of interests regarding the publication of this paper.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32089643</ArticleId>
+            <ArticleId IdType="doi">10.1155/2020/4185273</ArticleId>
+            <ArticleId IdType="pmc">PMC7023199</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>51132</Count><RetMax>10</RetMax><RetStart>0</RetStart><IdList>
+<Id>32092674</Id>
+<Id>32091949</Id>
+<Id>32091935</Id>
+<Id>32091876</Id>
+<Id>32090917</Id>
+<Id>32090830</Id>
+<Id>32090601</Id>
+<Id>32090355</Id>
+<Id>32089678</Id>
+<Id>32089643</Id>
+</IdList><TranslationSet><Translation>     <From>biofilm</From>     <To>"biofilms"[MeSH Terms] OR "biofilms"[All Fields] OR "biofilm"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"biofilms"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>31830</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"biofilms"[All Fields]</Term>    <Field>All Fields</Field>    <Count>38682</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"biofilm"[All Fields]</Term>    <Field>All Fields</Field>    <Count>42143</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>"biofilms"[MeSH Terms] OR "biofilms"[All Fields] OR "biofilm"[All Fields]</QueryTranslation></eSearchResult>
