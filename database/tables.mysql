@@ -1,33 +1,29 @@
 CREATE TABLE keywords (
-    kid INTEGER NOT NULL,
+    kid int NOT NULL AUTO_INCREMENT,
     keyword CHAR(50) NOT NULL,
     PRIMARY KEY (kid));
 
 CREATE TABLE authors (
-    aid INTEGER NOT NULL,
+    aid int NOT NULL AUTO_INCREMENT,
     name CHAR(50) NOT NULL,
     PRIMARY KEY (aid));
 
 create table literatures(
-    pmid INTEGER NOT NULL,
-    Title CHAR(50) NOT NULL,
-    Abstract TEXT NOT NULL,
-    aid INTEGER NOT NULL,
-    kid INTEGER NOT NULL,
-    PRIMARY KEY (pmid),
-    FOREIGN KEY (aid) REFERENCES authors(aid),
-    FOREIGN KEY (kid) REFERENCES keywords(kid));
+    pmid int NOT NULL,
+    title CHAR(250) NOT NULL,
+    abstract TEXT NOT NULL,
+    PRIMARY KEY (pmid),);
 
 create table search(
-    pmid INTEGER NOT NULL,
-    kid INTEGER NOT NULL,
+    pmid int NOT NULL,
+    kid int NOT NULL,
     PRIMARY KEY (pmid, kid),
     FOREIGN KEY (kid) REFERENCES keywords(kid),
     FOREIGN KEY (pmid) REFERENCES literatures(pmid));
 
 create table written(
-    pmid INTEGER NOT NULL,
-    aid INTEGER NOT NULL,
+    pmid int NOT NULL,
+    aid int NOT NULL,
     PRIMARY KEY (pmid, aid),
     FOREIGN KEY (aid) REFERENCES authors(aid),
     FOREIGN KEY (pmid) REFERENCES literatures(pmid));
