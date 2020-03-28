@@ -40,7 +40,7 @@ def esearch(keyword, db, numOfresults):
     mids = []
     for id in root.find('IdList').findall('Id'):
         mids.append(id.text)
-    createfile('./temp/' + keyword + '_id.txt', '\n'.join(mids))
+    # createfile('./temp/' + keyword + '_id.txt', '\n'.join(mids))
     return mids
 
 # To get articles detail
@@ -50,7 +50,7 @@ def efetch(keyword, db, numOfresults):
     json = []
     for index, id in enumerate(mids):
         ids += id
-        if (index+1)%440 == 0 or (index+1) == len(mids):
+        if (index+1)%400 == 0 or (index+1) == len(mids):
             url = createURL(1, ids, db, numOfresults)
             root = getXML(url, './temp/data.xml')
             json += gd.getdata('./temp/data.xml')
