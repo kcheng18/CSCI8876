@@ -12,7 +12,8 @@ create table literatures(
     pmid int NOT NULL,
     title CHAR(250) NOT NULL,
     abstract TEXT NOT NULL,
-    PRIMARY KEY (pmid),);
+    date date not null,
+    PRIMARY KEY (pmid));
 
 create table search(
     pmid int NOT NULL,
