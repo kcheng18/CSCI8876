@@ -1,6 +1,7 @@
+
 CREATE TABLE keywords (
     kid int NOT NULL AUTO_INCREMENT,
-    keyword CHAR(50) NOT NULL,
+    keyword CHAR(150) NOT NULL,
     PRIMARY KEY (kid));
 
 CREATE TABLE authors (
@@ -10,7 +11,7 @@ CREATE TABLE authors (
 
 create table literatures(
     pmid int NOT NULL,
-    title CHAR(250) NOT NULL,
+    title TEXT NOT NULL,
     abstract TEXT NOT NULL,
     date date not null,
     PRIMARY KEY (pmid));

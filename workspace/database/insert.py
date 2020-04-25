@@ -4,14 +4,14 @@ mydb = mysql.connector.connect(
         host="127.0.0.1",       # host name
         user="kwoksuncheng",    # user id
         passwd="Test1234",      # user password
-        database="test2"        # database name
+        database="bioi_project"        # database name
 )
 
 # checking if the data exists or not in relation table
 def check_relation(mycursor, table, schemas, values):
     q = 'select * from {} where {}={} and {}={}'.format(table, schemas[0], values[0], schemas[1], values[1])
     mycursor.execute(q)
-    return mycursor.fetchone() 
+    return mycursor.fetchone()
 
 # Insertion for relation table
 def insert_relation(mycursor,table, schemas, values):
@@ -33,7 +33,7 @@ def check(mycursor, table, schema, value):
         value = '"'+value+'"'
     q = 'select * from {} where {}={}'.format(table, schema, value)
     mycursor.execute(q)
-    return mycursor.fetchone() 
+    return mycursor.fetchone()
 
 # Inseting dat into the DB
 def insert(mycursor,table, schemas, values):
@@ -46,7 +46,7 @@ def insert(mycursor,table, schemas, values):
         mycursor.execute(sql, val)      # executes the query
         mydb.commit()
         return True
-    print('already exist')
+    # print('already exist')
     return False                        # return false if the data already exist in DB
 
 # Getting a literatures data and inset it into database
@@ -73,9 +73,15 @@ def insert_data(data):
         keywords = data[5]
         for keyword in keywords:
             word = keyword['word']
-            insert(mycursor,'keywords', ['keyword'], [word])
-            kid = int(check(mycursor,'keywords', 'keyword', word)[0])
-            insert_relation(mycursor,'search', ['pmid','kid'], [pmid,kid])
+            if '; ' in word:
+                for w in word.split('; '):
+                    insert(mycursor,'keywords', ['keyword'], [w])
+                    kid = int(check(mycursor,'keywords', 'keyword', w)[0])
+                    insert_relation(mycursor,'search', ['pmid','kid'], [pmid,kid])
+            else:
+                insert(mycursor,'keywords', ['keyword'], [word])
+                kid = int(check(mycursor,'keywords', 'keyword', word)[0])
+                insert_relation(mycursor,'search', ['pmid','kid'], [pmid,kid])
     # ----------------------------------------------------------------------------------------------
 
     # ---------------------------------------------------------------------------------------------------------
