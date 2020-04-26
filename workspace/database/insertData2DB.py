@@ -17,7 +17,7 @@ def test():
 
 if __name__ == "__main__":
     start_time = time.time()
-    path = 'temp2'                  # the directory which contain datas with json format
+    path = 'data'                  # the directory which contain datas with json format
     print('{}/{}'.format(0, len(os.listdir(path))))
     for index, filename in enumerate(os.listdir(path)):
         if filename.endswith('.json'):
