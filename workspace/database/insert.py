@@ -78,13 +78,15 @@ def insert_data(data):
     # ----------- inserting keywords into the keywords table ---------------------------------------
         keywords = data[5]
         for keyword in keywords:
+            special = [ '; ', '/ ']
             word = keyword['word']
-            if '; ' in word:
-                for w in word.split('; '):
-                    insert('keywords', ['keyword'], [w])
-                    kid = check('keywords', 'keyword', w)
-                    if kid:
-                        insert_relation('search', ['pmid','kid'], [pmid,kid[0][0]])
+            for s in special:
+                if s in word:
+                    for w in word.split(s):
+                        insert('keywords', ['keyword'], [w])
+                        kid = check('keywords', 'keyword', w)
+                        if kid:
+                            insert_relation('search', ['pmid','kid'], [pmid,kid[0][0]])
             else:
                 insert('keywords', ['keyword'], [word])
                 kid = check('keywords', 'keyword', word)

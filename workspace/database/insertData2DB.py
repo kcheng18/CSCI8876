@@ -17,13 +17,16 @@ def test():
 
 if __name__ == "__main__":
     start_time = time.time()
-    path = 'data'                  # the directory which contain datas with json format
+    path = 'temp2'                  # the directory which contain datas with json format
     print('{}/{}'.format(0, len(os.listdir(path))))
     for index, filename in enumerate(os.listdir(path)):
         if filename.endswith('.json'):
             fullname = os.path.join(path, filename)
             data = readFile(fullname)
-            articles = json.loads(data)
+            try:
+                articles = json.loads(data)
+            except:
+                print('Error - json.loads: ', filename)
             for index2, article in enumerate(articles):
                 print('From {}: {}/{}'.format(filename, index2+1, len(articles)))
                 temp = []                                  
