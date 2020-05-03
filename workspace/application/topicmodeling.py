@@ -11,7 +11,7 @@ def isInt(value):
 
 def displayOption(conter, size, style):
     print('\n{}/{}'.format(conter, size))
-    styles = ['[N]ext page for more papers | ', '']
+    styles = ['[N]ext page for more topics | ', '']
     print("\nEnter topic number to see more terms | {}[B]ack to the main menu".format(styles[style]))
     user_input = input().lower()
     while True:
@@ -27,7 +27,7 @@ def displayOption(conter, size, style):
     return user_input
 
 def displaytopic(top_list, user_input):
-    select_top = top_list[int(user_input)]
+    select_top = top_list[int(user_input)-1]
     top_words = select_top.split(',')
     print('\nTopic {}: \n'.format(user_input))
     temp = []
