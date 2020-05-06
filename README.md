@@ -1,4 +1,8 @@
 # CSCI 8876 Project
+
+## Project Final Report
+https://github.com/kcheng18/CSCI8876/blob/master/final.pdf
+
 ## Entity Relationship Diagram
 ![Image of ERD](https://github.com/kcheng18/CSCI8876/blob/master/ERD.jpeg)
 
