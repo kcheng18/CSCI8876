@@ -1,22 +1,20 @@
 # CSCI 8876 Project
+## Entity Relationship Diagram
+![Image of ERD](https://github.com/kcheng18/CSCI8876/ERD.jpeg)
 
 ## Requestment:
 
 ### Python Version
-Python 3.6 or above
+* Python 3.6 or above
 
 #### Install those python library if you don't have them
-gensim
 
-spacy
-
-mysql
-
-nltk
-
-numpy
-
-pandas
+* gensim
+* spacy
+* mysql
+* nltk
+* numpy
+* pandas
 
 #### Run this in terminal or command prompt
 ```bash
