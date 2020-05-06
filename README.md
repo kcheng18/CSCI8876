@@ -18,7 +18,9 @@ Access MySQL:
 Enter password:
 ```
 
-## Before run the application:
+## Application:
+
+### Before run the application:
 
 Inserting all data from the 'data' folder:
 ```bash
@@ -27,26 +29,33 @@ python3 insertData2DB.py
 
 Note: changing the information of your DB in the insert.py before do this step
 
-Application:
-
-Requestment:
+### Requestment:
 Python 3.6 or above
 
-## Prerequisites:
+### Prerequisites:
 
-### Run this in terminal or command prompt
+#### Run this in terminal or command prompt
 ```bash
 python3 -m spacy download en
 ```
 
-### install those python library if you don't have them
-gensim\n
-spacy\n
-mysql\n
-nltk\n
-numpy\n
-pandas\n
+#### install those python library if you don't have them
+gensim
 
-## Start Running the application
-Run the application/main.py
+spacy
+
+mysql
+
+nltk
+
+numpy
+
+pandas
+
+### Start Running the application
+#### At the application directory run it:
+```bash
+python3 main.py
+```
+
 Follow the interface to use it
