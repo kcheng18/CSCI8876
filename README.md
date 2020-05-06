@@ -1,5 +1,28 @@
 # CSCI 8876 Project
 
+## Requestment:
+
+### Python Version
+Python 3.6 or above
+
+#### Install those python library if you don't have them
+gensim
+
+spacy
+
+mysql
+
+nltk
+
+numpy
+
+pandas
+
+#### Run this in terminal or command prompt
+```bash
+python3 -m spacy download en
+```
+
 ## Installing MySQL:
 ### For macOS: 
 https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/osx-installation-pkg.html
@@ -27,36 +50,13 @@ Enter password:
 ## Application:
 
 ### Before run the application:
-Inserting all data from the 'data' folder:
+Inserting all data from the 'data' folder into the DB:
 
 Note: changing the information of your DB at the head of the workspace/database/insert.py before do this step
 
 ```bash
 python3 insertData2DB.py
 ```
-
-### Requestment:
-Python 3.6 or above
-
-### Prerequisites:
-
-#### Run this in terminal or command prompt
-```bash
-python3 -m spacy download en
-```
-
-#### Install those python library if you don't have them
-gensim
-
-spacy
-
-mysql
-
-nltk
-
-numpy
-
-pandas
 
 ### Start Running the application
 Go to the workspace/application directory run it:
