@@ -1,18 +1,24 @@
 # CSCI 8876 Project
 
 ## Installing MySQL:
-For macOS: 
+### For macOS: 
 https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/osx-installation-pkg.html
 
-Installing MySQL Workbench:
+### Installing MySQL Workbench:
 https://dev.mysql.com/downloads/workbench/5.2.html
 
-Creating table to the DB:
+### Creating table to the DB:
+Go to database directory and run it:
 ```bash
-mysql -u username -p database_name < file.sql
+mysql -u [username] -p [database_name] < table.sql
 ```
 
-Access MySQL:
+### If you want to drop all the tables:
+```bash
+mysql -u [username] -p [database_name] < droptable.sql
+```
+
+### Access MySQL:
 ```bash
 /usr/local/mysql/bin/mysql -u username -p
 Enter password:
@@ -21,13 +27,13 @@ Enter password:
 ## Application:
 
 ### Before run the application:
-
 Inserting all data from the 'data' folder:
+
+Note: changing the information of your DB at the head of the workspace/database/insert.py before do this step
+
 ```bash
 python3 insertData2DB.py
 ```
-
-Note: changing the information of your DB in the insert.py before do this step
 
 ### Requestment:
 Python 3.6 or above
@@ -39,7 +45,7 @@ Python 3.6 or above
 python3 -m spacy download en
 ```
 
-#### install those python library if you don't have them
+#### Install those python library if you don't have them
 gensim
 
 spacy
@@ -53,9 +59,11 @@ numpy
 pandas
 
 ### Start Running the application
-#### At the application directory run it:
+Go to the workspace/application directory run it:
+
+Note: changing the information of your DB at the head of the workspace/application/selectDB.py before do this step
+
 ```bash
 python3 main.py
 ```
-
 Follow the interface to use it
