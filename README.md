@@ -1,6 +1,6 @@
 # CSCI 8876 Project
 ## Entity Relationship Diagram
-![Image of ERD](https://github.com/kcheng18/CSCI8876/ERD.jpeg)
+![Image of ERD](https://github.com/kcheng18/CSCI8876/blob/master/ERD.jpeg)
 
 ## Requestment:
 
